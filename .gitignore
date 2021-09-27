@@ -1,10 +1,12 @@
 # Adding config.py file.
 api_keys.py
 
-.DS_Store
-
+#Assignment instructions said to include this
 API_practice.ipynb
 random_numbers.ipynb
+
+
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -62,6 +64,9 @@ coverage.xml
 # Translations
 *.mo
 *.pot
+
+# Atom stuff
+.DS_Store
 
 # Django stuff:
 *.log
